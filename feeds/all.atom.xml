@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>static-website</title><link href="https://cumberworth.org/" rel="alternate"></link><link href="https://cumberworth.org/feeds/all.atom.xml" rel="self"></link><id>https://cumberworth.org/</id><updated>2021-06-19T10:20:00+02:00</updated><entry><title>My article</title><link href="https://cumberworth.org/my-article.html" rel="alternate"></link><published>2021-06-19T10:20:00+02:00</published><updated>2021-06-19T10:20:00+02:00</updated><author><name>Alex Cumberworth</name></author><id>tag:cumberworth.org,2021-06-19:/my-article.html</id><content type="html">&lt;h1&gt;What should I say?&lt;/h1&gt;
+&lt;p&gt;This is the first article for this website.
+I want to be able to do more than just blog articles.
+I also want to be able to have a gallery.
+But let's keep it simple to start.&lt;/p&gt;</content><category term="Whatever"></category></entry></feed>
